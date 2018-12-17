@@ -16,7 +16,7 @@ export default {
     data(){
         return{
             navList:[{
-                name : '推荐音乐'
+                name : '推荐音乐1'
             },{
                 name : '热歌榜'
             },{
